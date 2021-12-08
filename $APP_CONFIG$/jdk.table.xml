@@ -1,0 +1,118 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.base" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.compiler" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.datatransfer" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.desktop" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.instrument" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.logging" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.management" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.management.rmi" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.naming" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.net.http" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.prefs" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.rmi" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.scripting" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.se" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.security.jgss" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.security.sasl" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.smartcardio" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.sql" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.xml" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.aot" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.attach" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.charsets" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.compiler" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jartool" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jdi" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jfr" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jlink" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.localedata" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.management" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.net" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.pack" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.sctp" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///nix/store/sq1vy2pdh3kr6cflv4bgbq0r7vvg0228-android-studio-stable-2020.3.1.25-unwrapped/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 31 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Android/Sdk/platforms/android-31/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Android/Sdk/sources/android-31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-31" />
+    </jdk>
+  </component>
+</application>
